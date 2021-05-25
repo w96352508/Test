@@ -1,6 +1,5 @@
-package 倒數計時器;
+package HomeWork.Time;
 
-import 倒數計時器.countDown;
 import java.awt.EventQueue;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
